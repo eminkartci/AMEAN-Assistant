@@ -1,0 +1,2 @@
+# AMEAN-Assistant
+Python Project
